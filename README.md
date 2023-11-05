@@ -1,6 +1,6 @@
 # <span style="color:white">Jay's Portfolio</span>
 
-<img src="[/images/Profile.png](https://github.com/jwestreich/Jays-Portfolio/blob/main/images/Profile.png)" alt="" width="200"/>
+<img src="https://github.com/jwestreich/Jays-Portfolio/blob/main/images/Profile.png" alt="" width="200"/>
 
 
 <a href="https://jaywestreich.com" target="_blank"><button>Website</button></a>
