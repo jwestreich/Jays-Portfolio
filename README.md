@@ -1,6 +1,6 @@
 # <span style="color:white">Jay's Portfolio</span>
 
-![](/images/Profile.png)
+![](/images/Profile.jpeg)
 <a href="https://jaywestreich.com" target="_blank"><button>Website</button></a>
 <a href="https://thisisjayslinkedin.com" target="_blank"><button>LinkedIn</button></a>
 
