@@ -1,6 +1,6 @@
 # <span style="color:white">Jay's Portfolio</span>
 
-<img src="/images/Profile.jpeg" alt="drawing" width="200"/>
+<img src="/images/Profile.png" alt="" width="200"/>
 
 
 <a href="https://jaywestreich.com" target="_blank"><button>Website</button></a>
