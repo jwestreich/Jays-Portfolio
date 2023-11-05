@@ -11,11 +11,9 @@ Jay Westreich is a data analyst in Washington, D.C.. Originally from New Jersey,
 Below are some data projects by Jay.
 
 ## [Jay's COVID Graphs](https://github.com/jwestreich/jayscovidgraphs)
-During the COVID-19 Pandemic, I created a [website](https://www.jayscovidgraphs.com) of different graphs to help people understand the status of the pandemic as it was going on. What started as being curious about when states would lift their lockdowns and posting some graphs to my personal Facebook timeline ended up becoming a side passion project. I import the data from Johns Hopkins University into R, use the tidyverse to manipulate the data, use ggplot2 to create a series of graphs in a loop, and use R Shiny to host a dashboard of these visuals that can be accessed by anyone on the Internet.
+During the COVID-19 Pandemic, I created a [website](https://www.jayscovidgraphs.com) of different graphs to help people understand the status of the pandemic as it was going on. What started as being curious about when states would lift their lockdowns and posting some graphs to my personal Facebook timeline ended up becoming a side passion project. I import the data from Johns Hopkins University into R, use the tidyverse to manipulate the data, use ggplot2 to create a series of graphs in a loop, and use R Shiny to host a dashboard of these visuals that can be accessed by anyone on the Internet. This project led to writing a [guest blog post](https://salthillstatistics.com/posts/79) on the SaltHill Statistics blog.
 
 ![](/images/JaysCOVIDgraphs.png)
-
-This project led to writing a [guest blog post](https://salthillstatistics.com/posts/79) on the SaltHill Statistics blog.
 
 ## [Probabilistic Forecasting to Assess Validity of 4% Withdrawl Rule for Retirement](https://github.com/jwestreich/safe_withdrawl_rate)
 Using probabilistic methods to assess the probability of a successful retirement by using the [4% rule](https://www.bankrate.com/retirement/what-is-the-4-percent-rule/#:~:text=The%204%25%20rule%20is%20a,subsequent%20year%20for%2030%20years.), instead of the deterministic methods that have been used to justify the use of this rule. 
