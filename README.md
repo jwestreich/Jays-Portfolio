@@ -8,7 +8,7 @@ During the COVID-19 Pandemic, I created a [website](https://www.jayscovidgraphs.
 ## [Probabilistic Forecasting to Assess Validity of 4% Withdrawl Rule for Retirement](https://github.com/jwestreich/safe_withdrawl_rate)
 
 
-## Creating a Business Card in R
+## [Creating a Business Card in R](https://github.com/jwestreich/business_card)
 
 
 ## Creating a Metro Prediction Sign at Home
