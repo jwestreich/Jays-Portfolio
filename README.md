@@ -1,5 +1,9 @@
 # <span style="color:white">Jay's Portfolio</span>
 
+![](/images/Profile.png)
+<a href="https://jaywestreich.com" target="_blank"><button>Website</button></a>
+<a href="https://thisisjayslinkedin.com" target="_blank"><button>LinkedIn</button></a>
+
 ## [Jay's COVID Graphs](https://github.com/jwestreich/jayscovidgraphs)
 During the COVID-19 Pandemic, I created a [website](https://www.jayscovidgraphs.com) of different graphs to help people understand the status of the pandemic as it was going on. What started as being curious about when states would lift their lockdowns and posting some graphs to my personal Facebook timeline ended up becoming a side passion project. I import the data from Johns Hopkins University into R, use the tidyverse to manipulate the data, use ggplot2 to create a series of graphs in a loop, and use R Shiny to host a dashboard of these visuals that can be accessed by anyone on the Internet.
 
