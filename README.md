@@ -6,6 +6,10 @@
 <a href="https://jaywestreich.com" target="_blank"><button>Website</button></a>
 <a href="https://thisisjayslinkedin.com" target="_blank"><button>LinkedIn</button></a>
 
+Jay Westreich is a data analyst in Washington, D.C.. Originally from New Jersey, he is currently a Performance Analyst at the Washington Metropolitan Area Transit Authority (WMATA) in Washington, D.C. and working towards a Master of Science in Applied Political Analysis at the University of Maryland, College Park. He graduated from the University of Maryland in 2019 with a Bachelor of Arts degree in Politics with minors in Survey Methodology and History. He has experience working at private consulting firms, large corporations, research universities, and the federal government on quantitative projects. He is most interested in quantitative political research, survey research, and using data to tell stories.
+
+Below are some data projects by Jay.
+
 ## [Jay's COVID Graphs](https://github.com/jwestreich/jayscovidgraphs)
 During the COVID-19 Pandemic, I created a [website](https://www.jayscovidgraphs.com) of different graphs to help people understand the status of the pandemic as it was going on. What started as being curious about when states would lift their lockdowns and posting some graphs to my personal Facebook timeline ended up becoming a side passion project. I import the data from Johns Hopkins University into R, use the tidyverse to manipulate the data, use ggplot2 to create a series of graphs in a loop, and use R Shiny to host a dashboard of these visuals that can be accessed by anyone on the Internet.
 
