@@ -1,6 +1,5 @@
 # <span style="color:white">Jay's Portfolio</span>
 
-![](/images/Profile.jpeg)
 <img src="/images/Profile.jpeg" alt="drawing" width="200"/>
 
 
