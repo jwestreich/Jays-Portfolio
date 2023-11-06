@@ -16,7 +16,7 @@ During the COVID-19 Pandemic, I created a [website](https://www.jayscovidgraphs.
 ![](/images/JaysCOVIDgraphs.png)
 
 ## [Probabilistic Forecasting to Assess Validity of 4% Withdrawl Rule for Retirement](https://github.com/jwestreich/safe_withdrawl_rate)
-Using probabilistic methods to assess the probability of a successful retirement by using the [4% rule](https://www.bankrate.com/retirement/what-is-the-4-percent-rule/#:~:text=The%204%25%20rule%20is%20a,subsequent%20year%20for%2030%20years.), instead of the deterministic methods that have been used to justify the use of this rule. 
+My goal with this analysis was to expand the methods used to evaluate the usefulness of the 4% rule, and help inform people how much money they may need to retire. I used probabilistic methods to assess the probability of a successful retirement by using the [4% rule](https://www.bankrate.com/retirement/what-is-the-4-percent-rule/#:~:text=The%204%25%20rule%20is%20a,subsequent%20year%20for%2030%20years.), instead of the deterministic methods that have been used to justify the use of this rule. Hopefully the information here is enough to provide results to make a more informed decision about the right time to retire.
 
 ![](/images/withdrawl.png)
 
