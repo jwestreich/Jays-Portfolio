@@ -3,6 +3,7 @@
 
 
 <a href="https://jaywestreich.com" target="_blank"><button>Website</button></a>
+<a href="https://github.com/jwestreich" target="_blank"><button>GitHub</button></a>
 <a href="https://thisisjayslinkedin.com" target="_blank"><button>LinkedIn</button></a>
 <a href="http://jaywestreich.weebly.com/contact.html" target="_blank"><button>Contact</button></a>
 
