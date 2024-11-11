@@ -16,6 +16,11 @@ During the COVID-19 Pandemic, I created a [web app](https://www.jayscovidgraphs.
 
 ![](/images/JaysCOVIDgraphs.png)
 
+## [Pennsylvania Early Vote Tracker](https://jaysrshinyapps.shinyapps.io/pa_early_vote//)
+Leading up to the 2024 presidential election, the Pennsylvania Agency of Voting and Elections would release the number of votes cast by registered Democrats, Republicans, and Independents each day. I would manually collect the data each day to create trend charts, showing the building Democrat advantage from early votes, as well as the shrinking vote share of Democrats. While [some people](https://twitter.com/blockedfreq/status/1843321985184731643) tried to forecast how much of an advantage Democrats would need from early votes, this tracker also had sliding tools for users to input their own assumptions about the race in order to derive what advantage was needed. The purpose of this module was to show that it would be very difficult to pinpoint how many early votes Democrats would need to win on Election Day: it was not easy to estimate these parameters ahead of time, such as turnout, early vote turnout, and party split come Election Day. 
+
+![](/images/pa_early_vote_tracker.png)
+
 ## [Probabilistic Forecasting to Assess Validity of 4% Withdrawl Rule for Retirement](https://github.com/jwestreich/safe_withdrawl_rate)
 My goal with this analysis was to expand the methods used to evaluate the usefulness of the 4% rule, and help inform people how much money they may need to retire. I used probabilistic methods to assess the probability of a successful retirement by using the [4% rule](https://www.bankrate.com/retirement/what-is-the-4-percent-rule/#:~:text=The%204%25%20rule%20is%20a,subsequent%20year%20for%2030%20years.), instead of the deterministic methods that have been used to justify the use of this rule. Hopefully the information here is enough to provide results to make a more informed decision about the right time to retire.
 
@@ -25,5 +30,3 @@ My goal with this analysis was to expand the methods used to evaluate the useful
 One of the most valuable skills of a data analyst is being able to use code in creative ways. It's also one of the hardest skills to demonstrate you have if you only have an elevator-pitch amount of time. To solve this, I created a business card while using the ggplot2 package in R. The front of the business card is the visual. The back of the card has the [code](https://github.com/jwestreich/business_card/blob/main/BusinessCard_public.R) I wrote to create the card. A quick way to show someone that I not only know R, but can use it to creatively solve problems.
 
 ![](/images/business_card.png)
-
-## Creating a Metro Prediction Sign at Home (coming soon)
